@@ -7,5 +7,8 @@ public class Methods {
             calculateArea calculateArea = new calculateArea();
             double result = calculateArea.calculateArea();
             System.out.println("Task_3 შედეგი = " + result);
+
+            greet greet = new greet();
+            System.out.println("Task_4 შედეგი = " + greet.greet() + ", " + greet.greet1());
         }
     }
