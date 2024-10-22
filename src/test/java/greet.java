@@ -1,6 +1,6 @@
 public class greet {
     public void main(String[] args) {
-        System.out.println("შედეგი = ");
+        System.out.println();
     }
 
     public String greet() {

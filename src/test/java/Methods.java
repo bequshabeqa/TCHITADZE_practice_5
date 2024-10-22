@@ -10,5 +10,8 @@ public class Methods {
 
             greet greet = new greet();
             System.out.println("Task_4 შედეგი = " + greet.greet() + ", " + greet.greet1());
+
+            convertToCelcius convertToCelcius = new convertToCelcius();
+            System.out.println("Task_5 შედეგი = " + convertToCelcius.convertToCelsius(98.6));
         }
     }
