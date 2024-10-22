@@ -5,8 +5,8 @@ public class Methods {
             System.out.println("Task_1 შედეგი = " + isEven.isEven(4));
             System.out.println("Task_1 შედეგი = " + isEven.isEven(7));
 
-            Excercise_2 Excercise_2 = new Excercise_2();
-            int number = Excercise_2.findLargest();
+            findLargest findLargest = new findLargest();
+            int number = findLargest.findLargest();
             System.out.println("Task_2 შედეგი = " + number);
 
             calculateArea calculateArea = new calculateArea();

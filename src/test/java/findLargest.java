@@ -1,4 +1,4 @@
-public class Excercise_2 {
+public class findLargest {
     public int findLargest() {
 
         int ricxvi1 = 5;
